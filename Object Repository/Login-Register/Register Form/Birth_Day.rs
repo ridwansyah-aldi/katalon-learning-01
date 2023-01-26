@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Birth_Day</name>
+   <tag></tag>
+   <elementGuidId>1e7d39e3-e3fa-4806-ab6c-673c7cc4fdb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@aria-label = 'Day' and @name = 'birthday_day']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>300f3904-1d2a-4cdc-a111-bf7300a51d48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Day</value>
+      <webElementGuid>6c459871-5e5b-4260-99b2-cdfd15a9a206</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>birthday_day</value>
+      <webElementGuid>2c9415b4-76dd-4809-b5c7-7e2857e13de4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
