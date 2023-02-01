@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Lastname</name>
+   <name>Email - Confirmation</name>
    <tag></tag>
-   <elementGuidId>c22150d4-0c09-4f16-9fb9-e9ecafdecfcf</elementGuidId>
+   <elementGuidId>d10ffc06-d614-4e9d-9263-4bd5e26f7c9a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//input[@type = 'text' and @name = 'lastname']</value>
+         <value>//input[@type = 'text' and @name = 'reg_email_confirmation__']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -18,7 +18,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e4550a99-0e00-4e35-92b8-d32c8c6a9b8e</webElementGuid>
+      <webElementGuid>1d9af6df-b2e1-4d62-8628-47111d39bfaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,14 +26,14 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>759e6037-9ed8-4cd1-84a2-1397f38911f8</webElementGuid>
+      <webElementGuid>29b01c4a-d226-479c-af01-28ec8abcd1af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>lastname</value>
-      <webElementGuid>a833d245-c28e-4622-93b6-9206ad0ae3db</webElementGuid>
+      <value>reg_email_confirmation__</value>
+      <webElementGuid>a1080c5f-99fb-4d4a-bd82-dd9b07bb7678</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

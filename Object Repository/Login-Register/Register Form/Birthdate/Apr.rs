@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>20</name>
+   <name>Apr</name>
    <tag></tag>
-   <elementGuidId>fcefc393-90b0-48ee-89bd-40237e9d6234</elementGuidId>
+   <elementGuidId>10e39873-05da-441a-9c62-cb22d77320a0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//option[@value = '20']</value>
+         <value>//option[(text() = 'Apr' or . = 'Apr')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -18,14 +18,14 @@
       <name>tag</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>48581ff6-5788-4542-9210-77e18d5dd2a3</webElementGuid>
+      <webElementGuid>d2bff22e-a6b9-4887-8113-e31d50a6cdb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>text</name>
       <type>Main</type>
-      <value>20</value>
-      <webElementGuid>a6e5ef97-9bca-4a45-a0df-b9691c4e27e6</webElementGuid>
+      <value>Apr</value>
+      <webElementGuid>c1dbfde2-8d34-4730-8e03-1dc18ed64ac7</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

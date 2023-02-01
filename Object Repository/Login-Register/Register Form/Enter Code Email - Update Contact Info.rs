@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Birth_Day</name>
+   <name>Enter Code Email - Update Contact Info</name>
    <tag></tag>
-   <elementGuidId>1e7d39e3-e3fa-4806-ab6c-673c7cc4fdb0</elementGuidId>
+   <elementGuidId>4f3b181b-6718-453c-9d9f-9a3feccc181e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//select[@aria-label = 'Day' and (text() = '12345678910111213141516171819202122232425262728293031' or . = '12345678910111213141516171819202122232425262728293031')]</value>
+         <value>//a[@role = 'button' and @rel = 'dialog' and (contains(text(), 'Update Contact Info') or contains(., 'Update Contact Info'))]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,31 +17,31 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>select</value>
-      <webElementGuid>d3a7773c-e3bc-4539-90a7-bca2ec41910c</webElementGuid>
+      <value>a</value>
+      <webElementGuid>a660d1c3-36b0-449d-8904-2f2476a04018</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-label</name>
+      <name>role</name>
       <type>Main</type>
-      <value>Day</value>
-      <webElementGuid>464e9a72-bf8c-46d8-90a2-9113dc6dff31</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>birthday_day</value>
-      <webElementGuid>46a8e8bc-9888-43d2-a66f-ef888106ef81</webElementGuid>
+      <value>button</value>
+      <webElementGuid>b9e4bc2e-ede6-4638-b2f9-3fb8e3450077</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>2f56fa14-679e-4fd4-b5df-3d605d416f30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>12345678910111213141516171819202122232425262728293031</value>
-      <webElementGuid>f2aab0e8-86c8-4d34-8d0b-d90b20ff4b64</webElementGuid>
+      <value>Update Contact Info</value>
+      <webElementGuid>78ff96f3-488f-4092-82ff-a81116b007ee</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

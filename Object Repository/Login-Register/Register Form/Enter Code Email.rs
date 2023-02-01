@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Lastname</name>
+   <name>Enter Code Email</name>
    <tag></tag>
-   <elementGuidId>c22150d4-0c09-4f16-9fb9-e9ecafdecfcf</elementGuidId>
+   <elementGuidId>41633460-5e49-4fd9-8f3a-a4b1e523b0b2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//input[@type = 'text' and @name = 'lastname']</value>
+         <value>//input[@type = 'text' and @name = 'code']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -18,7 +18,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e4550a99-0e00-4e35-92b8-d32c8c6a9b8e</webElementGuid>
+      <webElementGuid>e9a27bf3-fcc3-493a-af5f-43942e8c1708</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,14 +26,14 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>759e6037-9ed8-4cd1-84a2-1397f38911f8</webElementGuid>
+      <webElementGuid>e13164bc-9ca4-4132-9ec3-de4439a664c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>lastname</value>
-      <webElementGuid>a833d245-c28e-4622-93b6-9206ad0ae3db</webElementGuid>
+      <value>code</value>
+      <webElementGuid>e6af3f4b-b775-47cb-ac38-14f96883bda3</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

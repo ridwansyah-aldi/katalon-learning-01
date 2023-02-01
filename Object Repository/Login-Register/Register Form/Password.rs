@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Lastname</name>
+   <name>Password</name>
    <tag></tag>
-   <elementGuidId>c22150d4-0c09-4f16-9fb9-e9ecafdecfcf</elementGuidId>
+   <elementGuidId>d7f45c7c-9225-4a50-9035-8ad74f4bf0fd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//input[@type = 'text' and @name = 'lastname']</value>
+         <value>//input[@type = 'password' and @name = 'reg_passwd__']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -18,22 +18,22 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e4550a99-0e00-4e35-92b8-d32c8c6a9b8e</webElementGuid>
+      <webElementGuid>3f85be89-775f-428c-87c2-d6dab56b4867</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>759e6037-9ed8-4cd1-84a2-1397f38911f8</webElementGuid>
+      <value>password</value>
+      <webElementGuid>bb096f68-0c39-44a2-bb45-cc4ad247e61b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>lastname</value>
-      <webElementGuid>a833d245-c28e-4622-93b6-9206ad0ae3db</webElementGuid>
+      <value>reg_passwd__</value>
+      <webElementGuid>a265e893-37a3-4259-8b75-fa9233a2979a</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

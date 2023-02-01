@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>20</name>
+   <name>Enter Code_Please enter code</name>
    <tag></tag>
-   <elementGuidId>fcefc393-90b0-48ee-89bd-40237e9d6234</elementGuidId>
+   <elementGuidId>62ba03ca-14ed-4135-8926-2b904f9e49ea</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//option[@value = '20']</value>
+         <value>//div[(text() = 'Please enter a code.' or . = 'Please enter a code.')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,15 +17,15 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>option</value>
-      <webElementGuid>48581ff6-5788-4542-9210-77e18d5dd2a3</webElementGuid>
+      <value>div</value>
+      <webElementGuid>884b8cea-7f6c-4b1e-9097-e1a07b385001</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>text</name>
       <type>Main</type>
-      <value>20</value>
-      <webElementGuid>a6e5ef97-9bca-4a45-a0df-b9691c4e27e6</webElementGuid>
+      <value>Please enter a code.</value>
+      <webElementGuid>c113e1c2-6cbb-41d5-873f-267113317c58</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

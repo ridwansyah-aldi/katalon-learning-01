@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Lastname</name>
+   <name>Enter Code_Cancel</name>
    <tag></tag>
-   <elementGuidId>c22150d4-0c09-4f16-9fb9-e9ecafdecfcf</elementGuidId>
+   <elementGuidId>c8db5324-ab6e-402c-8dac-f3c5c58077b9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//input[@type = 'text' and @name = 'lastname']</value>
+         <value>//a[@role = 'button' and @name = 'reset action' and @href = '/']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,23 +17,31 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>e4550a99-0e00-4e35-92b8-d32c8c6a9b8e</webElementGuid>
+      <value>a</value>
+      <webElementGuid>183a359b-6d40-4acc-abb8-e58884aeeefa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>role</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>759e6037-9ed8-4cd1-84a2-1397f38911f8</webElementGuid>
+      <value>button</value>
+      <webElementGuid>713aea66-d4b8-4577-b7c9-d0f24e3ead15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>lastname</value>
-      <webElementGuid>a833d245-c28e-4622-93b6-9206ad0ae3db</webElementGuid>
+      <value>reset action</value>
+      <webElementGuid>cf9de413-8605-4170-9074-9b1ada6832d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/</value>
+      <webElementGuid>e2a0646c-30ad-4749-8dcb-2c16771afa42</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

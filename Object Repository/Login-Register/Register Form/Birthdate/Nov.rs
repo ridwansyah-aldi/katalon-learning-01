@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>20</name>
+   <name>Nov</name>
    <tag></tag>
-   <elementGuidId>fcefc393-90b0-48ee-89bd-40237e9d6234</elementGuidId>
+   <elementGuidId>5c0e8a0d-7b5e-40c1-a358-f3fa4607efdb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//option[@value = '20']</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>48581ff6-5788-4542-9210-77e18d5dd2a3</webElementGuid>
+      <webElementGuid>54f408ce-cd7b-4f96-838a-2aa87ae46ef3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>text</name>
       <type>Main</type>
-      <value>20</value>
-      <webElementGuid>a6e5ef97-9bca-4a45-a0df-b9691c4e27e6</webElementGuid>
+      <value>Nov</value>
+      <webElementGuid>743a035f-dc72-40af-b104-741bd22976ca</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

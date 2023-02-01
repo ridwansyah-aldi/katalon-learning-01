@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Birth_Day</name>
+   <name>Birth_Month</name>
    <tag></tag>
-   <elementGuidId>1e7d39e3-e3fa-4806-ab6c-673c7cc4fdb0</elementGuidId>
+   <elementGuidId>d8fa5c06-9ebe-4906-bf79-ffd9ba00e404</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//select[@aria-label = 'Day' and (text() = '12345678910111213141516171819202122232425262728293031' or . = '12345678910111213141516171819202122232425262728293031')]</value>
+         <value>//select[@aria-label = 'Month' and @name = 'birthday_month' and (text() = 'JanFebMarAprMayJunJulAugSepOctNovDec' or . = 'JanFebMarAprMayJunJulAugSepOctNovDec')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -18,30 +18,30 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>d3a7773c-e3bc-4539-90a7-bca2ec41910c</webElementGuid>
+      <webElementGuid>040e23ac-e070-4ab1-9c49-191c60a76748</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>Day</value>
-      <webElementGuid>464e9a72-bf8c-46d8-90a2-9113dc6dff31</webElementGuid>
+      <value>Month</value>
+      <webElementGuid>5dff5bed-24ab-4cf3-8486-f39c752cc493</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>birthday_day</value>
-      <webElementGuid>46a8e8bc-9888-43d2-a66f-ef888106ef81</webElementGuid>
+      <value>birthday_month</value>
+      <webElementGuid>d8d7394f-2688-4dd5-b597-dcffc95c1ea0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>12345678910111213141516171819202122232425262728293031</value>
-      <webElementGuid>f2aab0e8-86c8-4d34-8d0b-d90b20ff4b64</webElementGuid>
+      <value>JanFebMarAprMayJunJulAugSepOctNovDec</value>
+      <webElementGuid>b3929a43-419f-43d0-b74a-a8f52456a2be</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

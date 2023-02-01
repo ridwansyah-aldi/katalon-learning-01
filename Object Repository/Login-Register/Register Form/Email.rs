@@ -3,11 +3,11 @@
    <description></description>
    <name>Email</name>
    <tag></tag>
-   <elementGuidId>d7f45c7c-9225-4a50-9035-8ad74f4bf0fd</elementGuidId>
+   <elementGuidId>72a0bf9c-da9f-48c9-a2b4-ca366b23dfed</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//input[@type = 'text' and @name = 'reg_passwd__']</value>
+         <value>//input[@type = 'text' and @name = 'reg_email__']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -18,7 +18,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5fa99d8c-dcb6-4cc6-87eb-8050ef7cb3b4</webElementGuid>
+      <webElementGuid>0248a1be-0b79-4eea-a3b0-c97fa4b56fa6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,14 +26,14 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>cd9541d3-fd7c-437d-8e12-25f967e1b551</webElementGuid>
+      <webElementGuid>099e0a50-531b-4993-9e1f-7200af2294ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>reg_passwd__</value>
-      <webElementGuid>7c01885c-21d6-4f8d-8981-6a58590da189</webElementGuid>
+      <value>reg_email__</value>
+      <webElementGuid>6b10a7d2-7a07-4bce-892f-19de99a1c5fe</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
