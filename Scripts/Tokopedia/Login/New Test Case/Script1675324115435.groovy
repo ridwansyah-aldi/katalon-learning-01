@@ -21,31 +21,21 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://web.facebook.com/')
+WebUI.navigateToUrl('www.tokopedia.com/login')
 
-WebUI.verifyElementPresent(findTestObject('Login-Register/Button_Login'), 10)
+WebUI.verifyElementPresent(findTestObject('Tokopedia/Login/Button_Selanjutnya'), 10)
 
-WebUI.setText(findTestObject('Login-Register/Field_Email'), 'aldi.balidevs@gmail.com')
+WebUI.setText(findTestObject('Tokopedia/Login/Email'), 'aldi.balidevs@gmail.com')
 
-WebUI.setText(findTestObject('Login-Register/Field_Password'), 'P@$$word')
+WebUI.click(findTestObject('Tokopedia/Login/Button_Selanjutnya'))
 
-WebUI.click(findTestObject('Login-Register/Button_Login'))
+WebUI.verifyElementPresent(findTestObject('Tokopedia/Login/Button_Masuk'), 10)
 
-WebUI.delay(5)
+WebUI.setText(findTestObject('Tokopedia/Login/Password'), 'P@$$word')
 
-if (WebUI.verifyElementPresent(findTestObject('Login-Register/Failed Login Msg'), 10)) {
-    WebUI.closeBrowser()
-} else if (WebUI.verifyElementNotPresent(findTestObject('Login-Register/Failed Login Msg'), 10)) {
-    WebUI.verifyElementPresent(findTestObject('Home Page/Home Button'), 10)
+WebUI.click(findTestObject('Tokopedia/Login/Button_Masuk'))
 
-    WebUI.verifyElementPresent(findTestObject('Home Page/Your Profile Button'), 10)
+WebUI.verifyElementPresent(findTestObject('Tokopedia/Home Page/Profile Header'), 10)
 
-    WebUI.click(findTestObject('Home Page/Your Profile Button'))
-
-    WebUI.verifyElementPresent(findTestObject('Home Page/Logout Button'), 10)
-
-    WebUI.click(findTestObject('Home Page/Logout Button'))
-
-    WebUI.closeBrowser()
-}
+WebUI.closeBrowser()
 

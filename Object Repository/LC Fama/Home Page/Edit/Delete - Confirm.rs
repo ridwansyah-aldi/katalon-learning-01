@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Delete - Confirm</name>
+   <tag></tag>
+   <elementGuidId>0d3cb3bb-7e5b-43b2-8f62-f132801b4344</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@type = 'button' and contains(@style, 'margin') and @ref_element = 'Object Repository/LC Fama/Home Page/Edit/Confirmation Popup Div' and @ref_element_is_shadow_root = 'true']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bbb224cb-dec1-45a5-ad41-a7a98193e6e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>081b7cd3-bcb0-4641-8a97-5acfbf270c6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>style</name>
+      <type>Main</type>
+      <value>margin</value>
+      <webElementGuid>f8abb4d0-1267-43a9-8908-a9e9c44d4fc5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

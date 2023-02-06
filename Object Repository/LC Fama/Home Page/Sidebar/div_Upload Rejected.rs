@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Upload Rejected</name>
+   <tag></tag>
+   <elementGuidId>001a59a1-c76d-4c11-adf2-e78691354887</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload file'])[1]/following::div[5]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@role = 'alert' and @aria-describedby = 'client-snackbar' and (contains(text(), 'was rejected. File type not supported. ') or contains(., 'was rejected. File type not supported. '))]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiPaper-root.MuiSnackbarContent-root.jss185.MuiPaper-elevation6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f1bddd53-4b00-49a4-9198-2b8700ed8e99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiPaper-root MuiSnackbarContent-root jss185 MuiPaper-elevation6</value>
+      <webElementGuid>4f87e7b3-9508-4806-bd89-3ec1b96047f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>cab2d937-9206-4f95-9fdd-e22c8f91ef38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>client-snackbar</value>
+      <webElementGuid>955a11cc-ff77-4216-8793-51898858d166</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>direction</name>
+      <type>Main</type>
+      <value>up</value>
+      <webElementGuid>19118103-2577-4dec-a1fb-3d779de3ce3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>was rejected. File type not supported. </value>
+      <webElementGuid>532cc1b3-b94f-45a9-b483-0b1defbc7b15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper&quot;]/div[@class=&quot;MuiPaper-root MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiDialog-paperFullWidth MuiPaper-elevation24 MuiPaper-rounded&quot;]/div[@class=&quot;MuiDialogContent-root&quot;]/div[@class=&quot;MuiSnackbar-root MuiSnackbar-anchorOriginBottomLeft&quot;]/div[@class=&quot;MuiPaper-root MuiSnackbarContent-root jss185 MuiPaper-elevation6&quot;]</value>
+      <webElementGuid>2bc17e25-7bf9-4c2f-b575-3c0cd3b7099b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload file'])[1]/following::div[5]</value>
+      <webElementGuid>f45b8be2-5803-4e15-af12-82c1fa5a5333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[12]</value>
+      <webElementGuid>09d49f92-94cf-4093-84ce-ff92766399e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[3]</value>
+      <webElementGuid>6d7b6a72-6098-471a-b89e-6d49c8a33a3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]/div</value>
+      <webElementGuid>2c737e09-f5b7-4c72-980b-d98bb1b2aeab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'File tom-morel-nSBVgWbjoB0-unsplash.jpg was rejected. File type not supported. ' or . = 'File tom-morel-nSBVgWbjoB0-unsplash.jpg was rejected. File type not supported. ')]</value>
+      <webElementGuid>59b01e1c-8d03-4495-954b-c886f7bf104c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

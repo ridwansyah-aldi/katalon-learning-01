@@ -21,31 +21,28 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://web.facebook.com/')
+WebUI.navigateToUrl('www.tokopedia.com')
 
-WebUI.verifyElementPresent(findTestObject('Login-Register/Button_Login'), 10)
+WebUI.verifyElementPresent(findTestObject('Tokopedia/Home Page/input_Search'), 10)
 
-WebUI.setText(findTestObject('Login-Register/Field_Email'), 'aldi.balidevs@gmail.com')
+WebUI.setText(findTestObject('Tokopedia/Home Page/input_Search'), 'Kemeja')
 
-WebUI.setText(findTestObject('Login-Register/Field_Password'), 'P@$$word')
+WebUI.click(findTestObject('Tokopedia/Home Page/button_Search'))
 
-WebUI.click(findTestObject('Login-Register/Button_Login'))
+WebUI.delay(10)
 
-WebUI.delay(5)
+WebUI.scrollToElement(findTestObject('Tokopedia/Home Page/Filter_Harga Minimum'), 10)
 
-if (WebUI.verifyElementPresent(findTestObject('Login-Register/Failed Login Msg'), 10)) {
-    WebUI.closeBrowser()
-} else if (WebUI.verifyElementNotPresent(findTestObject('Login-Register/Failed Login Msg'), 10)) {
-    WebUI.verifyElementPresent(findTestObject('Home Page/Home Button'), 10)
+//WebUI.click(findTestObject('Object Repository/Tokopedia/Home Page/Filter_Harga Minimum'))
 
-    WebUI.verifyElementPresent(findTestObject('Home Page/Your Profile Button'), 10)
+//WebUI.verifyElementPresent(findTestObject('Tokopedia/Home Page/Filter_Harga Minimum'), 10)
+WebUI.setText(findTestObject('Tokopedia/Home Page/Filter_Harga Minimum'), '100000')
 
-    WebUI.click(findTestObject('Home Page/Your Profile Button'))
+WebUI.delay(10)
 
-    WebUI.verifyElementPresent(findTestObject('Home Page/Logout Button'), 10)
+WebUI.scrollToElement(findTestObject('Tokopedia/Home Page/Filter_Harga Maksimum'), 10)
 
-    WebUI.click(findTestObject('Home Page/Logout Button'))
+WebUI.setText(findTestObject('Tokopedia/Home Page/Filter_Harga Maksimum'), '1000000')
 
-    WebUI.closeBrowser()
-}
+//WebUI.sendKeys(findTestObject('Tokopedia/Home Page/Filter_Harga Maksimum'), Keys.chord(Keys.ENTER))
 

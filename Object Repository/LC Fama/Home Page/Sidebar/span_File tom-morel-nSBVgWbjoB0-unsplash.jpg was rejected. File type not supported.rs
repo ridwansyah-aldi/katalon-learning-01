@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_File tom-morel-nSBVgWbjoB0-unsplash.jpg was rejected. File type not supported</name>
+   <tag></tag>
+   <elementGuidId>a23a0501-c9f8-4c41-900f-1ff2e7ef8f8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='client-snackbar']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#client-snackbar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ce254eff-fcd5-494f-95b0-8e4efb76fdcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>client-snackbar</value>
+      <webElementGuid>4d423f46-8106-45b8-833a-3f5b2ef10ca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss190</value>
+      <webElementGuid>0b3a9772-6a38-43cd-bfbe-68434b2e7876</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>File tom-morel-nSBVgWbjoB0-unsplash.jpg was rejected. File type not supported. </value>
+      <webElementGuid>458974a0-0b24-4017-ba00-b7aa1641658c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;client-snackbar&quot;)</value>
+      <webElementGuid>1ee03b38-7ff4-4bc1-a6c6-4a7320fc3649</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='client-snackbar']</value>
+      <webElementGuid>593fbfd7-f8e3-4b1c-b978-93a368724cf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload file'])[1]/following::span[1]</value>
+      <webElementGuid>f8cd662f-fd80-40d1-b5f4-7687c5f8f115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'client-snackbar', '&quot;', ')')])[1]/following::span[1]</value>
+      <webElementGuid>598313a7-a6d8-446a-8487-f8edfb5b64c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[3]</value>
+      <webElementGuid>35b62527-e685-4ded-91cc-545e42f0c131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::span[5]</value>
+      <webElementGuid>438f9fc2-511a-4558-9f38-6f08fa163ce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='File tom-morel-nSBVgWbjoB0-unsplash.jpg was rejected. File type not supported.']/parent::*</value>
+      <webElementGuid>9923372b-53ad-4d60-9592-9f769c3823e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>28cf35d6-300f-4584-8ae8-6ca8ce34dec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'client-snackbar' and (text() = 'File tom-morel-nSBVgWbjoB0-unsplash.jpg was rejected. File type not supported. ' or . = 'File tom-morel-nSBVgWbjoB0-unsplash.jpg was rejected. File type not supported. ')]</value>
+      <webElementGuid>6990ba71-576c-4af1-9d67-2bdd2b8f58d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

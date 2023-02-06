@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>5f452f11-7766-4d65-ae84-ef2314252fae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[4]/following::span[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select.ant-select-sm.ant-select-single.ant-select-show-arrow.ant-select-open > div.ant-select-selector > span.ant-select-selection-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e150e968-2644-4198-a595-cb231320407a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-item</value>
+      <webElementGuid>80c4aa54-ad22-4885-9813-541015c2116d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>==</value>
+      <webElementGuid>0dcd9936-5a5c-4a29-bf3a-7067519ef2c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>==</value>
+      <webElementGuid>1935ea9a-3ff9-4349-81ca-f183dac8ad16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper&quot;]/div[@class=&quot;MuiPaper-root MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiPaper-elevation24 MuiPaper-rounded&quot;]/div[@class=&quot;MuiDialogContent-root&quot;]/div[@class=&quot;query-builder&quot;]/div[@class=&quot;group-or-rule-container group-container&quot;]/div[@class=&quot;group group-or-rule&quot;]/div[@class=&quot;group--children hide--line one--child&quot;]/div[@class=&quot;group-or-rule-container rule-container&quot;]/div[@class=&quot;rule group-or-rule&quot;]/div[@class=&quot;rule--body--wrapper&quot;]/div[@class=&quot;rule--body&quot;]/div[@class=&quot;rule--operator&quot;]/div[@class=&quot;ant-select ant-select-sm ant-select-single ant-select-show-arrow ant-select-open&quot;]/div[@class=&quot;ant-select-selector&quot;]/span[@class=&quot;ant-select-selection-item&quot;]</value>
+      <webElementGuid>5d61d5fa-7476-434f-a349-b6219289689f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[4]/following::span[4]</value>
+      <webElementGuid>e21ff348-9067-46ff-ac45-1b10f5575499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[3]/following::span[6]</value>
+      <webElementGuid>a4223566-0908-4f08-a5bb-376294e02a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::span[8]</value>
+      <webElementGuid>cfb47298-eae5-4afb-a362-b438388375ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::span[10]</value>
+      <webElementGuid>aa41cae3-d6bc-4b09-b09a-d7f17239061b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='==']/parent::*</value>
+      <webElementGuid>6fbd932f-029e-42fa-ad88-5ddf2443229e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span[2]</value>
+      <webElementGuid>286d287c-49f2-4e96-ac9b-95091b9fa412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = '==' and (text() = '==' or . = '==')]</value>
+      <webElementGuid>dfd9839b-871e-4909-a0dd-fb3bcfd8cd5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

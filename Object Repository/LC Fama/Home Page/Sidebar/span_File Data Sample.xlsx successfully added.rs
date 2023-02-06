@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_File Data Sample.xlsx successfully added</name>
+   <tag></tag>
+   <elementGuidId>ea9bd623-80e2-42c3-86ef-ceebea3bcae5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='client-snackbar']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#client-snackbar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>50c71725-3a8a-4655-b47b-e47dbe915aa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>client-snackbar</value>
+      <webElementGuid>f20dfd65-cada-4d5d-a887-a80f5706e2b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss176</value>
+      <webElementGuid>7b6be9e6-bd1d-4bb7-a4f1-840707629411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>File Data Sample.xlsx successfully added.</value>
+      <webElementGuid>3f3c5c16-5032-4e88-9d99-6ed9001ff767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;client-snackbar&quot;)</value>
+      <webElementGuid>e41a9db2-0a44-4821-9086-267f877b5926</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='client-snackbar']</value>
+      <webElementGuid>72fe2045-9767-444e-bcf7-b6ab663abdc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload file'])[1]/following::span[3]</value>
+      <webElementGuid>c824565e-332a-45e2-8ff0-4775e4438c0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'client-snackbar', '&quot;', ')')])[1]/following::span[3]</value>
+      <webElementGuid>d4d07671-c95c-49f8-b5c8-23b96ea87b6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[3]</value>
+      <webElementGuid>c949ef97-e741-47e5-93ed-b188b184d598</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::span[5]</value>
+      <webElementGuid>cbaa99ee-7985-459a-8bfa-ecd85aaa8b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='File Data Sample.xlsx successfully added.']/parent::*</value>
+      <webElementGuid>7e249478-7914-4e71-ae9f-1e3f22678c02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>f3c7fdc8-ad4f-4d47-9ba9-afdaccd5fb99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'client-snackbar' and (text() = 'File Data Sample.xlsx successfully added.' or . = 'File Data Sample.xlsx successfully added.')]</value>
+      <webElementGuid>a9a99e56-fadb-443d-9a94-4ff01be01af5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

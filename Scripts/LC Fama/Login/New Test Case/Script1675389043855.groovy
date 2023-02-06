@@ -17,35 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.openBrowser('http://23.96.29.46:8203/')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://web.facebook.com/')
+WebUI.verifyElementPresent(findTestObject('LC Fama/Login Page/Button Login'), 10)
 
-WebUI.verifyElementPresent(findTestObject('Login-Register/Button_Login'), 10)
+WebUI.setText(findTestObject('LC Fama/Login Page/Field Username'), 'LC_admin_maker')
 
-WebUI.setText(findTestObject('Login-Register/Field_Email'), 'aldi.balidevs@gmail.com')
+WebUI.setText(findTestObject('LC Fama/Login Page/Field Password'), 'P@ssw0rd')
 
-WebUI.setText(findTestObject('Login-Register/Field_Password'), 'P@$$word')
-
-WebUI.click(findTestObject('Login-Register/Button_Login'))
+WebUI.click(findTestObject('LC Fama/Login Page/Button Login'))
 
 WebUI.delay(5)
 
-if (WebUI.verifyElementPresent(findTestObject('Login-Register/Failed Login Msg'), 10)) {
-    WebUI.closeBrowser()
-} else if (WebUI.verifyElementNotPresent(findTestObject('Login-Register/Failed Login Msg'), 10)) {
-    WebUI.verifyElementPresent(findTestObject('Home Page/Home Button'), 10)
+WebUI.verifyElementPresent(findTestObject('LC Fama/Home Page/Button Profile'), 10)
 
-    WebUI.verifyElementPresent(findTestObject('Home Page/Your Profile Button'), 10)
+WebUI.click(findTestObject('LC Fama/Home Page/Button Profile'))
 
-    WebUI.click(findTestObject('Home Page/Your Profile Button'))
+WebUI.verifyElementPresent(findTestObject('LC Fama/Home Page/Button Logout'), 10)
 
-    WebUI.verifyElementPresent(findTestObject('Home Page/Logout Button'), 10)
+WebUI.click(findTestObject('LC Fama/Home Page/Button Logout'))
 
-    WebUI.click(findTestObject('Home Page/Logout Button'))
-
-    WebUI.closeBrowser()
-}
+WebUI.closeBrowser()
 

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Profile Header</name>
+   <tag></tag>
+   <elementGuidId>9498130f-b6d3-482a-9d5e-a707de59e492</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-testid = 'btnHeaderMyProfile' and @id = 'my-profile-header']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>abf86b47-6af9-4f18-924c-f3c5be1f55f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>btnHeaderMyProfile</value>
+      <webElementGuid>83924bb9-904d-4d08-a4e0-7f88b9973239</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>my-profile-header</value>
+      <webElementGuid>37eee2a0-eb0e-4f33-8451-dd734510848c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
